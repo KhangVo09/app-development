@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|c:\\users\\admin\\source\\repos\\coursework2024\\coursework2024\\getuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\getuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\getuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\getuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\editteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\editteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\yourcustomlistitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\yourcustomlistitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\coursework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\coursework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\editteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\editteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\coursework2024\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180F725E-14A6-48C6-B73E-DB39ABA0EBC6}|Coursework2024\\Coursework2024.csproj|solutionrelative:coursework2024\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coursework.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Coursework.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\Coursework.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Coursework.cs",
+              "RelativeToolTip": "Coursework2024\\Coursework.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:25:27.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YourCustomListItemType.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\YourCustomListItemType.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\YourCustomListItemType.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\YourCustomListItemType.cs",
+              "RelativeToolTip": "Coursework2024\\YourCustomListItemType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:25:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Program.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Program.cs",
+              "RelativeToolTip": "Coursework2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:17:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\dashboard.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\dashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\dashboard.cs",
+              "RelativeToolTip": "Coursework2024\\dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:34:34.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\GetUserData.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\GetUserData.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\GetUserData.cs [Design]",
+              "RelativeToolTip": "Coursework2024\\GetUserData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:30:08.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\EditStudent.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\EditStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\EditStudent.cs",
+              "RelativeToolTip": "Coursework2024\\EditStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:51:38.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editteacher.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Editteacher.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\Editteacher.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Editteacher.cs",
+              "RelativeToolTip": "Coursework2024\\Editteacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:14:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\EditStudent.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\EditStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\EditStudent.cs [Design]",
+              "RelativeToolTip": "Coursework2024\\EditStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:10:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Editteacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Editteacher.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\Editteacher.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\Editteacher.cs [Design]",
+              "RelativeToolTip": "Coursework2024\\Editteacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:09:21.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetUserData.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\GetUserData.cs",
+              "RelativeDocumentMoniker": "Coursework2024\\GetUserData.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Coursework2024\\Coursework2024\\GetUserData.cs",
+              "RelativeToolTip": "Coursework2024\\GetUserData.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAjwAsDAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:30:14.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
